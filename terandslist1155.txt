@@ -1,0 +1,3624 @@
+📌 Pattern: Small | Big | Big | Big | green | red | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Big | red | red | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Big | green | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Big | Small | green | red | red | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Small | Big | red | red | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Small | Big | red | red | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Small | Big | Big | green | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Big | Big | green | red | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Big | Small | Small | green | red | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Big | Big | Small | green | green | green | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Big | Small | Small | green | green | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Small | Small | green | red | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Small | Small | Small | green | red | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Big | Big | red | green | red | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Small | Big | Small | green | green | red | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Small | Big | green | red | green | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Big | Big | Small | green | red | red | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Big | Small | Small | red | red | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Big | Small | green | green | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Small | Small | green | green | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Small | Small | Small | green | red | red | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Big | Small | Small | green | red | red | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Big | Small | Small | green | red | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Small | Big | Big | red | red | red | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Big | Big | Small | red | red | red | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Small | Small | Small | green | red | red | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Small | Small | red | red | red | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Small | Big | red | green | green | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Small | Big | Small | green | green | red | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Small | Small | red | red | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Big | Big | green | green | red | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Big | Big | red | red | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Big | Small | Small | green | green | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Small | Big | green | green | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Small | Small | red | red | green | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Small | Small | red | green | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Big | Small | Small | red | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Big | Big | green | green | red | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Big | Big | green | green | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Small | Small | green | green | red | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Small | Small | green | red | green | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Small | Small | green | red | green | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Small | Small | Big | red | green | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Big | Small | Small | red | green | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Big | Small | green | red | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Small | Big | green | red | green | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Big | Big | Big | red | green | red | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Big | Big | green | green | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Big | Small | red | green | green | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Big | Small | Big | red | red | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Small | Big | Small | green | red | green | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Small | Big | Big | red | red | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Small | Big | Small | red | green | green | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Small | Small | green | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Small | Small | green | green | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Big | Small | green | green | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Big | Small | green | green | green | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Big | Big | green | red | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Small | Big | Big | green | red | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Big | Big | Small | green | red | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Big | Small | red | green | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Small | Small | red | red | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Small | Big | red | green | red | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Small | Big | red | green | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Small | Small | Small | green | red | green | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Big | Small | green | green | green | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Big | Big | Small | green | green | green | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Small | Big | green | red | red | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Big | Small | Big | green | red | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Small | Small | Small | red | red | red | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Big | Small | green | green | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Big | Small | Big | green | green | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Small | Big | green | green | red | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Small | Big | green | green | red | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Big | Small | red | green | green | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Small | Small | red | green | green | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Small | Small | Small | red | green | green | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Small | Small | Big | green | green | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Big | Small | green | green | red | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Big | Small | Big | green | red | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Small | Big | Small | red | red | green | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Small | Big | green | red | green | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Small | Big | Big | red | red | red | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Big | Small | red | red | red | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Big | Small | Small | red | red | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Small | Small | Small | green | green | red | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Big | Big | red | red | red | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Big | Big | Small | red | red | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Big | Big | Small | green | red | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Big | Big | Small | green | red | green | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Small | Small | green | green | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Small | Small | Small | green | red | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Small | Small | green | red | green | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Small | Small | Small | green | red | red | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Big | Small | Big | red | red | green | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Small | Big | green | red | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Small | Big | green | green | green | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Small | Small | Big | green | green | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Big | Big | green | green | green | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Big | Big | Big | green | green | green | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Big | Big | red | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Big | Big | red | green | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Small | Small | green | green | green | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Small | Small | Small | green | green | green | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Small | Small | green | green | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Small | Small | Small | red | green | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Small | Big | Small | red | red | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Small | Big | Small | red | red | green | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Small | Big | red | green | green | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Small | Small | Big | red | green | red | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Small | Big | Big | green | red | red | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Small | Big | Small | red | red | red | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Small | Big | Small | red | red | red | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Small | Big | Big | red | red | red | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Big | Big | green | red | red | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Big | Big | Small | red | green | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Big | Big | red | red | red | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Big | Big | red | red | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Small | Small | Big | red | green | green | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Big | Small | green | green | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Big | Small | Big | green | red | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Big | Small | Big | green | red | green | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Small | Small | red | red | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Big | Small | red | green | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Big | Small | Big | green | red | red | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Small | Small | red | red | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Big | Small | Small | red | red | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Big | Small | Big | green | green | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Big | Small | green | green | green | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Big | Small | Big | red | green | red | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Small | Big | Small | green | red | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Small | Big | Small | green | red | green | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Big | Small | Small | red | green | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Big | Big | Small | green | green | red | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Small | Small | Small | red | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Small | Big | green | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Small | Small | red | green | green | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Small | Small | Big | green | red | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Small | Big | green | red | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Small | Big | Small | red | red | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Small | Small | red | red | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Big | Big | Small | red | green | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Big | Big | red | red | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Big | Big | Small | red | red | red | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Big | Big | green | green | red | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Big | Big | Big | green | green | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Big | Big | green | red | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Small | Big | Big | green | red | green | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Big | Small | green | green | green | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Big | Big | red | red | green | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Big | Small | Small | green | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Big | Small | Small | green | green | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Big | Big | red | green | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Big | Small | Big | green | green | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Big | Small | red | red | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Small | Small | red | red | red | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Big | Small | red | red | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Big | Small | Big | red | green | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Small | Small | red | green | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Big | Big | Small | Big | green | green | green | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Small | Big | Small | red | red | red | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Small | Small | Small | red | red | green | red | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Small | Small | Small | Small | red | green | red | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Big | Big | Big | green | green | green | green | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Big | Big | Big | Small | green | green | green | green | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Big | Small | Small | Big | green | green | red | red | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Big | Big | Big | green | green | green | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Big | Small | Small | Big | green | red | green | red | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Big | Big | Big | green | red | red | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Big | Small | Small | green | green | green | red | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Big | Small | Small | green | green | green | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Big | Small | Small | Big | green | green | red | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Small | Big | Small | green | red | red | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Big | Small | Small | Small | green | green | red | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Big | Big | Small | Big | green | red | green | green | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Big | Small | Big | Small | red | green | green | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Small | Big | Big | green | red | green | red | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Big | Small | Big | green | green | red | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Big | Small | Big | green | green | green | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Big | Small | Big | Small | green | green | green | red | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Big | Big | Big | Big | green | red | red | green | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Big | Big | Big | Big | red | green | green | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Big | Big | Small | Big | green | green | red | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Big | Small | Big | red | green | red | green | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Big | Big | Small | red | green | red | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Big | Big | Small | red | green | red | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Big | Big | Big | Small | green | green | green | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Big | Small | Small | Big | green | green | green | red | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Small | Big | Big | Big | red | red | red | red | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Small | Big | Big | Big | red | red | red | red | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Big | Small | Small | Small | red | green | green | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Small | Small | Big | Big | green | red | red | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Big | Big | Big | red | red | red | red | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Big | Big | Big | red | red | red | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Big | Big | Small | red | red | red | red | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Big | Big | Small | Big | red | red | red | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Big | Big | Small | Big | red | red | red | green | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Small | Big | Small | green | green | green | green | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Small | Big | Small | green | green | green | green | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Big | Small | Big | green | green | green | green | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Small | Big | Small | green | green | green | red | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Small | Big | Small | green | green | green | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Big | Small | Big | Small | green | red | green | green | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Small | Big | Small | green | red | green | green | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Big | Small | Big | red | green | green | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Big | Small | Small | red | green | green | green | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Big | Big | Big | green | green | red | green | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Big | Big | Small | Small | green | red | red | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Small | Big | Big | red | green | green | green | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Small | Big | Big | red | green | green | green | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Small | Big | Big | Small | green | green | green | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Big | Small | Small | green | green | green | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Big | Small | Small | green | green | green | green | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Small | Small | Big | Small | green | green | red | green | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Small | Big | Big | Small | green | red | red | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Big | Big | Small | Big | red | red | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Big | Small | Big | red | red | green | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Small | Small | Big | green | green | red | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Big | Big | Big | red | green | red | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Small | Big | Big | green | green | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Big | Big | Small | green | green | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Big | Big | Big | Big | green | green | green | green | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Small | Small | Small | Small | green | green | red | red | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Small | Small | Big | green | red | red | red | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Small | Small | Big | green | red | red | red | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Small | Big | Big | red | red | red | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Small | Small | Small | green | green | green | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Big | Small | Small | green | green | red | red | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Big | Big | Small | Small | green | green | red | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Big | Small | Small | Big | green | red | red | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Small | Small | Big | red | green | green | red | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Big | Small | Small | Small | red | red | red | red | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Small | Small | Small | Small | red | red | red | red | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Small | Small | Small | red | red | red | red | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Small | Small | Small | red | red | red | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Small | Small | Big | red | red | red | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Big | Big | Big | Big | green | green | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Big | Big | Big | green | green | green | green | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Big | Big | Big | Small | green | green | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Big | Big | Small | Small | green | green | green | green | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Small | Small | Small | Big | green | red | red | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Big | Small | Small | Small | red | red | red | red | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Small | Small | Big | red | red | green | green | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Small | Small | Small | Big | red | red | green | green | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Small | Small | Big | Small | red | green | green | red | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Big | Small | Small | green | green | red | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Big | Big | Small | green | red | green | green | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Big | Big | Big | green | green | red | red | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Big | Big | Small | green | red | red | green | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Big | Big | Small | Big | green | red | red | red | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Big | Small | Big | green | red | red | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Big | Small | Big | Big | red | red | red | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Big | Small | Big | Big | red | red | red | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Small | Small | Big | green | green | red | red | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Small | Big | Small | green | red | red | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Big | Big | Small | Small | green | green | green | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Big | Small | Small | green | green | green | green | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Big | Big | Big | Small | red | red | green | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Big | Small | Small | Big | green | red | green | red | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Big | Big | Big | green | green | red | red | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Big | Big | Big | green | green | red | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Big | Big | Big | Big | green | red | red | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Big | Big | Big | green | red | red | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Big | Big | Big | red | green | green | green | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Big | Big | Big | Big | red | green | green | green | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Small | Small | Small | Small | green | red | red | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Small | Small | Small | Small | green | red | red | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Small | Small | Big | Small | red | red | green | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Small | Big | Small | red | red | green | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Small | Small | Big | Big | green | green | green | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Big | Big | Big | green | green | red | green | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Big | Big | Small | Small | green | green | green | red | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Small | Small | Big | green | red | green | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Small | Small | Big | Big | red | green | green | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Small | Small | Big | Big | red | green | green | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Big | Small | Small | Small | red | green | red | red | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Big | Small | Big | Small | green | green | red | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Big | Small | Big | Small | green | green | red | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Small | Big | Small | Big | green | red | red | green | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Big | Small | Big | Big | red | red | green | red | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Big | Big | Small | Big | green | red | green | green | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Small | Big | Small | green | red | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Big | Small | Big | Big | green | green | green | red | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Big | Big | Big | Big | red | red | green | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Big | Small | Small | green | red | red | green | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Big | Small | Small | Small | red | red | green | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Big | Big | Big | red | red | red | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Big | Big | Big | red | red | red | green | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Big | Small | Big | green | red | green | green | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Big | Big | Small | Big | green | red | green | green | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Small | Big | Big | red | green | green | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Big | Big | Big | Small | green | red | green | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Small | Big | Small | green | red | green | green | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Big | Small | Big | Small | green | red | green | green | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Big | Small | Big | green | red | red | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Small | Small | Big | Big | green | red | red | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Big | Big | Big | green | red | red | green | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Big | Small | Small | Small | red | green | green | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Big | Small | Big | green | green | green | red | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Big | Big | Small | green | red | red | green | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Big | Small | Small | red | red | green | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Big | Big | Small | Small | red | red | green | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Small | Big | Small | green | red | green | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Big | Small | Small | red | green | red | green | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Big | Small | Small | Big | green | red | green | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Small | Small | Big | green | red | green | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Small | Big | Big | red | green | red | green | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Big | Big | Small | green | green | red | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Big | Small | Big | red | green | red | red | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Small | Big | Small | red | red | red | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Small | Small | Big | Big | red | green | red | green | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Small | Big | Big | Small | red | red | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Big | Big | Small | red | red | green | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Big | Small | Small | Big | green | green | green | green | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Small | Big | Small | Big | red | green | red | red | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Small | Big | Small | Big | red | green | red | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Small | Small | Small | Big | red | red | red | green | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Small | Big | Small | Small | red | green | green | green | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Small | Big | Big | Small | green | green | red | red | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Small | Small | Small | red | red | red | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Small | Big | Big | green | green | red | red | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Big | Big | Big | green | red | red | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Big | Big | Big | Big | red | green | green | green | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Small | Small | Big | Big | green | green | red | green | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Small | Big | Big | green | green | red | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Small | Big | Big | Small | green | red | green | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Big | Small | Big | green | green | red | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Big | Small | Big | Small | green | red | red | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Big | Small | Big | Small | green | red | red | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Small | Big | Small | green | red | red | green | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Small | Big | Small | Small | red | red | green | red | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Small | Small | Small | Big | red | red | red | red | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Small | Small | Big | red | red | red | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Small | Big | Big | red | red | red | green | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Big | Small | Big | green | green | red | green | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Big | Small | Big | green | green | red | green | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Small | Big | Small | green | red | green | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Big | Small | Big | red | red | red | red | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Big | Small | Big | red | red | red | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Big | Small | Big | Big | red | red | red | red | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Big | Big | Small | red | red | red | red | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Big | Big | Small | Small | red | red | red | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Small | Small | Small | red | green | green | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Small | Big | Small | Small | red | green | green | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Big | Small | Big | Big | green | red | red | red | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Big | Small | Big | Big | green | green | green | red | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Big | Big | Small | green | green | green | green | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Big | Big | Small | Big | green | green | green | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Big | Big | Small | green | green | red | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Big | Big | Small | Big | green | red | green | red | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Big | Small | Big | green | red | green | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Small | Big | Big | Big | green | red | red | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Big | Big | Big | Big | red | red | red | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Big | Big | Big | green | green | red | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Big | Small | Small | Small | green | green | red | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Small | Big | Big | red | red | green | red | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Big | Small | Big | Small | red | green | green | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Big | Small | Small | green | green | green | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Big | Small | Small | Small | green | green | red | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Small | Small | Small | red | green | green | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Small | Small | Small | red | green | green | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Small | Small | Big | green | green | red | green | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Small | Small | Big | Small | green | red | green | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Small | Big | Small | Small | red | green | red | green | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Small | Big | Small | Small | red | green | red | green | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Small | Small | Big | Small | red | red | red | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Small | Small | Big | Small | green | green | red | green | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Small | Big | Big | Small | green | green | red | green | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Small | Small | Big | Big | red | green | red | green | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Small | Big | Big | red | green | red | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Small | Big | Big | Big | green | red | green | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Big | Big | Small | Small | green | green | green | red | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Small | Small | Small | red | red | green | green | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Small | Small | Small | Small | red | red | green | green | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Small | Big | Big | green | green | red | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Small | Big | Small | Small | red | green | red | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Small | Small | Small | Small | green | red | red | red | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Small | Small | Small | Small | red | red | red | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Small | Small | Small | red | red | red | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Small | Small | Small | Small | red | green | red | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Small | Small | Big | Big | green | green | green | green | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Small | Small | Big | Big | green | green | green | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Small | Big | Big | green | green | green | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Small | Big | Big | Big | green | red | red | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Big | Big | Big | green | red | red | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Big | Big | Big | Big | red | red | red | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Small | Big | Small | Big | green | red | red | green | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Big | Small | Big | Big | red | red | green | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Small | Big | Big | red | red | green | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Big | Big | Big | Small | green | red | green | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Big | Big | Big | Small | green | red | green | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Big | Big | Small | Small | red | green | red | green | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Small | Small | Big | green | red | green | red | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Big | Small | Small | Big | green | red | green | red | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Small | Big | Big | Big | green | red | red | green | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Small | Big | Small | Small | red | red | green | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Small | Big | Small | Small | red | red | green | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Small | Small | Small | Small | green | red | green | red | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Small | Big | Small | green | red | red | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Small | Small | Big | green | green | red | red | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Big | Big | Big | Big | red | red | green | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Big | Big | Big | red | red | green | green | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Big | Small | Small | green | red | red | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Small | Small | Small | red | green | green | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Small | Big | Big | Big | green | red | red | red | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Big | Small | Big | green | green | red | green | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Big | Big | Small | Big | green | red | green | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Small | Small | Big | green | red | green | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Big | Small | Small | Big | green | red | green | green | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Small | Big | Small | Small | green | green | red | green | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Small | Small | Small | Big | red | red | red | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Small | Small | Small | Big | red | red | red | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Big | Big | Big | Small | green | red | green | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Small | Big | Big | red | red | green | red | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Big | Small | Big | green | red | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Big | Small | Big | green | red | green | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Small | Small | Big | Small | green | green | green | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Big | Small | Big | green | green | red | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Big | Small | Big | Small | green | red | green | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Big | Small | Small | Big | red | red | red | red | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Small | Big | Big | red | red | red | red | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Small | Small | Big | Big | red | red | red | red | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Small | Small | Big | red | red | green | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Small | Big | Small | Small | green | green | red | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Small | Big | Big | red | green | red | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Small | Big | Big | red | green | red | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Big | Big | Big | Small | red | green | green | green | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Big | Big | Big | Small | red | green | green | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Big | Big | Small | Small | green | green | green | green | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Small | Small | Big | Big | green | green | red | red | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Small | Big | Big | green | green | red | red | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Big | Small | Big | red | red | green | green | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Small | Small | Big | Big | red | red | green | red | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Big | Big | Big | red | green | red | red | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Small | Small | Big | Small | green | green | red | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Big | Big | Big | Big | green | green | green | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Big | Small | Big | Big | red | green | red | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Small | Big | Big | Big | green | red | red | red | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Big | Big | Big | green | red | red | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Big | Big | Big | Big | red | red | red | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Big | Small | Big | green | green | red | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Big | Small | Big | green | green | red | green | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Big | Small | Big | Big | green | red | green | red | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Big | Big | Big | red | green | red | red | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Big | Small | Small | green | green | red | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Big | Small | Small | green | green | red | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Small | Small | Small | green | red | red | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Small | Small | Small | green | red | red | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Small | Small | Small | Small | red | red | red | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Small | Small | Small | red | red | green | red | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Big | Big | Small | Big | green | green | green | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Small | Small | Small | green | red | red | red | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Small | Big | Small | red | red | red | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Big | Small | Big | red | red | red | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Big | Small | Small | Small | green | green | green | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Big | Big | Big | green | green | red | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Big | Big | Big | Big | green | green | red | green | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Big | Big | Big | Big | green | red | green | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Big | Big | Big | Big | green | red | green | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Small | Big | Small | Small | green | red | green | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Small | Small | Small | green | green | green | green | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Big | Small | Small | Small | green | green | green | green | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Small | Small | Small | green | green | green | green | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Small | Small | Small | green | green | green | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Small | Small | Big | Big | green | red | red | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Small | Big | Big | Small | green | green | red | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Big | Big | Small | green | green | red | green | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Big | Big | Small | Big | green | red | green | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Big | Big | Small | Big | green | red | green | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Big | Small | Big | Small | red | green | red | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Big | Big | Big | Small | green | red | red | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Big | Big | Big | Small | green | red | red | green | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Big | Big | Small | Small | red | red | green | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Big | Big | Big | Big | red | green | green | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Big | Small | Small | red | green | red | red | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Small | Small | Small | Small | green | green | green | red | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Small | Small | Big | red | green | red | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Small | Small | Big | red | green | red | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Big | Big | Big | red | red | green | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Small | Big | Big | Big | red | red | green | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Big | Big | Big | Big | red | green | red | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Big | Small | Big | Small | red | green | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Small | Small | Small | green | red | green | red | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Big | Small | Small | Small | green | red | green | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Big | Small | Small | red | red | red | red | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Small | Small | Small | red | red | red | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Big | Small | Small | Small | red | red | red | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Small | Small | Small | Big | red | red | red | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Big | Small | Big | red | red | green | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Big | Small | Big | green | green | red | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Big | Big | Small | Big | red | green | green | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Big | Small | Big | red | green | green | green | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Big | Small | Big | Small | green | green | green | red | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Small | Small | Small | green | red | green | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Big | Big | Big | green | red | red | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Big | Big | Small | red | red | green | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Big | Big | Small | Small | red | green | green | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Small | Big | Big | Big | green | red | red | green | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Big | Big | Big | red | green | red | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Big | Small | Big | green | red | red | red | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Big | Big | Big | Big | green | green | green | red | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Big | Big | Big | Big | green | green | green | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Big | Big | Big | green | green | red | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Big | Big | Small | Small | red | red | red | green | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Big | Small | Small | Small | red | green | green | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Big | Small | Big | green | red | green | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Small | Small | Small | Big | red | red | green | green | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Big | Small | Big | Small | green | red | green | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Small | Small | Small | Small | green | red | red | green | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Small | Small | Small | Big | red | red | green | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Small | Big | Big | red | green | red | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Small | Small | Big | Big | red | green | red | green | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Big | Big | Big | green | red | green | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Big | Big | Big | Big | green | red | green | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Big | Big | Small | Big | red | red | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Big | Small | Small | green | green | red | red | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Big | Big | Small | green | green | red | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Small | Small | Small | red | green | red | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Small | Small | Small | green | red | green | red | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Big | Small | Small | Big | green | green | red | red | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Small | Big | Small | green | red | red | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Small | Small | Small | green | green | green | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Big | Small | Small | Small | green | green | green | green | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Small | Small | Small | Small | green | green | green | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Small | Small | Big | green | green | red | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Big | Big | Small | Big | green | red | green | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Big | Small | Big | green | green | green | red | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Big | Small | Small | Big | green | green | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Big | Small | Small | Big | green | green | green | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Small | Big | Big | Big | green | green | green | green | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Small | Big | Big | Big | green | green | green | green | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Small | Big | Small | Small | green | red | green | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Big | Big | Big | Small | red | green | green | red | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Big | Big | Big | green | green | green | green | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Big | Big | Big | green | green | green | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Big | Big | Small | Big | green | green | green | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Small | Big | Big | Small | green | red | red | red | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Big | Small | Big | Small | red | red | red | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Small | Small | Big | red | green | green | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Small | Big | Big | green | green | red | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Small | Big | Big | green | green | red | green | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Small | Big | Big | Small | green | red | green | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Small | Big | Small | Big | green | green | green | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Big | Small | Big | green | green | green | green | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Small | Big | Small | green | green | green | red | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Small | Small | Small | green | red | red | green | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Small | Small | Small | Small | red | red | green | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Small | Big | Small | red | red | red | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Small | Small | Big | Small | red | red | red | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Small | Big | Small | green | red | green | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Big | Big | Small | red | red | red | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Small | Big | Big | Small | red | red | red | green | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Big | Big | Small | Big | red | red | green | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Small | Big | Big | Big | red | red | red | green | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Big | Big | Big | Small | red | red | green | green | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Big | Big | Small | red | red | green | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Big | Big | Small | Small | red | green | green | green | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Big | Big | Big | green | green | red | green | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Big | Small | Small | Big | red | red | green | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Big | Small | Small | Big | red | red | green | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Small | Big | Small | red | green | red | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Small | Big | Small | red | green | red | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Small | Small | Big | red | red | green | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Big | Big | Small | Big | Small | green | green | green | red | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Big | Big | Small | Big | Small | green | green | green | red | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Big | Small | Small | Big | green | green | green | red | red | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Big | Small | Small | Big | green | green | green | red | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Big | Big | Small | Small | Big | green | green | green | red | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Big | Small | Small | Big | Small | green | green | red | red | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Small | Small | Small | Small | Small | green | red | green | red | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Small | Small | Small | Small | green | red | green | red | green | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Big | Small | Big | Small | green | red | green | green | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Small | Big | Big | Small | green | red | green | red | green | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Big | Big | Small | Big | Small | green | red | green | green | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Big | Big | Small | Big | Small | green | green | green | green | red | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Small | Big | Small | Big | Big | red | green | red | green | green | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Small | Big | Big | Small | green | red | green | green | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Big | Big | Small | Big | red | green | red | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Big | Big | Small | Big | red | green | red | green | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Big | Big | Small | Big | Big | green | red | green | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Big | Small | Big | Big | green | red | green | green | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Big | Big | Big | Small | red | red | red | red | green | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Small | Big | Big | Big | Small | red | red | red | red | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Big | Big | Small | Small | Small | red | red | green | green | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Big | Big | Big | Small | red | red | red | red | red | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Big | Big | Small | Big | red | red | red | red | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Big | Big | Small | Big | red | red | red | red | green | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Small | Big | Small | Big | green | green | green | green | green | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Small | Big | Small | Big | Small | green | green | red | green | green | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Big | Small | Big | Small | green | green | red | green | green | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Big | Small | Big | Small | Big | green | red | green | green | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Big | Big | Big | Small | green | red | green | green | green | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Small | Big | Big | Small | red | green | green | green | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Big | Small | Small | Big | green | green | green | green | red | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Big | Small | Small | Big | green | green | green | green | red | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Big | Small | Small | Big | Small | green | green | green | red | green | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Small | Big | Small | Small | green | green | red | green | green | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Small | Big | Small | Small | green | green | red | green | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Big | Small | Big | Big | red | red | green | green | green | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Big | Small | Big | Big | Big | red | green | green | green | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Small | Big | Big | Small | green | green | green | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Small | Big | Big | Small | green | green | green | green | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Small | Small | Small | Small | green | green | green | red | red | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Big | Small | Small | Small | Small | green | green | green | red | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Small | Small | Small | Small | Big | green | green | red | red | red | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Small | Small | Small | Big | green | green | red | red | red | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Small | Small | Small | Big | Big | green | red | red | red | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Big | Big | Big | Big | Big | red | green | green | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Big | Big | Big | Big | Big | red | green | green | green | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Big | Big | Small | Small | Big | green | green | red | red | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Big | Big | Small | Small | Small | red | red | red | red | red | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Big | Big | Small | Small | Small | red | red | red | red | red | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Small | Small | Small | Small | Big | red | red | red | red | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Big | Big | Big | Big | red | green | green | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Big | Big | Big | Big | red | green | green | green | green | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Big | Big | Big | Small | green | green | green | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Big | Big | Big | Small | green | green | green | green | green | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Big | Big | Big | Small | Small | green | green | green | green | green | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Small | Small | Small | Big | Small | red | red | green | green | red | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Small | Small | Big | Small | red | red | green | green | red | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Small | Small | Big | Small | Small | red | green | green | red | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Big | Big | Big | Small | green | green | red | red | green | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Big | Big | Small | Big | Big | green | red | red | red | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Big | Big | Small | Big | Big | green | red | red | red | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Big | Small | Big | Big | Small | red | red | red | red | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Small | Small | Small | Big | Small | green | green | red | red | red | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Small | Small | Big | Small | green | green | red | red | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Small | Small | Big | Small | Big | green | red | red | red | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Small | Small | Big | Small | green | red | green | red | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Small | Small | Big | Small | green | red | green | red | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Big | Big | Big | Big | green | green | red | red | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Big | Big | Big | Big | green | green | red | red | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Big | Big | Big | Big | Big | green | red | red | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Big | Big | Big | Big | Small | red | green | green | green | green | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Small | Small | Small | Small | green | red | red | red | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Small | Big | Small | Big | red | red | green | red | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Small | Big | Big | Small | red | green | green | red | green | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Big | Small | Big | Small | Big | green | green | red | red | green | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Big | Big | Small | Big | red | green | red | green | green | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Big | Small | Big | Big | green | green | green | green | red | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Big | Big | Big | Big | red | red | red | green | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Big | Small | Small | Small | green | red | red | green | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Big | Small | Small | Small | Big | red | red | green | red | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Small | Big | Big | Big | Big | red | red | red | green | red | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Big | Big | Big | Big | red | red | red | green | red | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Big | Big | Small | Big | Big | green | red | green | green | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Big | Big | Small | Small | Small | green | red | green | green | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Big | Big | Small | Small | green | red | red | green | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Small | Big | Big | Small | Small | green | red | red | green | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Small | Small | Big | Big | green | red | green | red | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Small | Small | Big | Big | green | red | green | red | green | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Big | Small | Small | Big | Small | green | red | red | green | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Small | Big | Small | Big | Big | red | green | red | red | red | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Small | Big | Big | Small | green | green | red | green | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Small | Small | Big | Big | red | red | red | red | green | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Big | Small | Big | Small | green | green | red | green | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Big | Small | Big | Big | red | red | red | red | red | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Big | Big | Small | Big | Big | green | green | green | green | red | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Big | Big | Small | Big | Big | green | green | green | green | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Small | Big | Big | Big | green | green | green | red | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Small | Big | Big | Big | Big | green | green | red | green | green | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Big | Big | Big | Big | green | green | red | green | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Big | Big | Small | Big | green | green | green | green | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Big | Big | Small | Big | Big | green | green | green | green | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Big | Big | Small | Big | Big | green | green | green | green | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Big | Small | Big | Big | Small | green | green | green | red | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Small | Big | Big | Small | Big | red | green | red | green | red | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Big | Big | Small | Big | red | green | red | green | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Big | Big | Small | Big | Big | green | red | green | red | red | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Big | Big | Big | Big | green | red | red | red | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Big | Big | Small | Small | Small | green | green | green | red | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Small | Small | Big | Big | green | red | red | green | red | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Big | Small | Small | Small | green | green | green | red | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Big | Small | Small | Big | green | red | green | green | red | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Small | Small | Small | Big | red | green | green | red | green | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Small | Small | Small | Big | Small | green | green | red | green | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Small | Small | Big | Small | Small | green | red | green | red | green | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Small | Small | Big | Small | Small | green | red | green | red | green | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Small | Big | Small | Small | Small | red | green | red | green | red | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Small | Big | Big | Small | green | green | green | red | green | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Small | Small | Big | Big | Big | red | green | red | green | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Small | Small | Small | Small | Big | red | red | green | green | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Small | Small | Small | Small | red | green | red | green | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Big | Small | Small | Small | Small | red | green | red | red | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Big | Small | Big | Big | green | red | green | red | red | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Big | Small | Big | Big | Big | red | green | red | red | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Small | Big | Big | Big | red | green | red | red | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Big | Big | Big | Big | green | red | red | red | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Small | Big | Big | Big | Big | green | red | red | red | green | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Big | Big | Big | Big | Big | red | red | red | green | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Big | Small | Big | Big | green | red | red | green | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Big | Small | Big | Big | green | red | red | green | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Big | Small | Big | Big | Big | red | red | green | red | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Big | Big | Big | Small | Small | green | red | green | red | green | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Small | Small | Big | Big | green | red | green | red | red | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Big | Big | Big | Big | green | red | red | green | green | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Big | Big | Big | Big | Small | red | red | green | green | green | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Big | Big | Small | Small | Big | green | green | green | red | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Small | Big | Small | Small | Small | red | red | green | red | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Big | Big | Big | Small | Small | green | green | red | red | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Small | Big | Small | Small | red | green | green | red | green | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Small | Small | Small | Big | Small | red | red | red | red | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Small | Small | Big | Small | red | red | red | red | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Small | Small | Big | Small | Big | red | red | red | red | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Small | Big | Small | Big | red | red | red | red | green | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Small | Big | Small | Big | Small | green | green | red | green | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Big | Small | Big | Small | green | green | red | green | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Big | Small | Big | Small | red | green | red | green | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Big | Small | Small | Big | Big | red | red | red | red | red | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Big | Small | Small | Big | Big | red | red | red | red | red | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Small | Small | Big | Big | Small | red | red | red | red | green | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Small | Big | Big | Small | red | red | red | red | green | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Big | Small | Big | Small | Small | red | red | green | red | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Small | Small | Big | Big | Big | red | green | red | green | green | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Small | Small | Big | Big | Big | red | green | red | green | green | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Small | Big | Big | Big | Small | green | red | green | green | green | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Small | Big | Big | Big | Small | green | red | green | green | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Big | Big | Small | Small | red | green | green | green | green | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Big | Big | Small | Small | Big | green | green | green | green | red | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Small | Small | Big | Small | green | green | green | red | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Small | Small | Big | Small | green | green | green | red | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Small | Small | Big | Small | Big | green | green | red | red | green | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Big | Big | Big | Big | Big | red | green | green | green | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Big | Big | Big | Big | Big | red | green | green | green | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Big | Small | Big | Big | Big | red | green | red | red | red | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Big | Small | Big | Big | Big | red | green | red | red | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Small | Big | Big | Big | Big | green | red | red | red | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Big | Small | Big | Big | green | green | red | green | red | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Big | Small | Big | Big | green | green | red | green | red | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Big | Small | Big | Big | Big | green | red | green | red | red | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Big | Small | Big | Small | Small | red | green | green | red | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Big | Small | Big | Small | Small | red | green | green | red | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Big | Small | Small | Small | green | green | red | red | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Big | Small | Small | Small | green | green | red | red | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Small | Small | Small | Small | green | red | red | red | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Big | Big | Big | Small | Big | green | green | green | green | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Big | Big | Big | Big | green | green | red | green | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Big | Big | Big | Big | green | green | red | green | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Big | Big | Small | Small | Small | green | green | green | green | green | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Big | Big | Small | Small | Small | green | green | green | green | green | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Big | Small | Small | Small | Small | green | green | green | green | green | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Big | Small | Small | Small | Small | green | green | green | green | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Small | Small | Small | Small | green | green | green | green | green | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Small | Small | Big | Big | Big | green | red | red | red | green | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Small | Small | Big | Big | Big | green | red | red | red | green | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Small | Big | Big | Big | Small | red | red | red | green | green | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Big | Big | Small | Big | green | green | red | green | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Big | Big | Small | Big | green | green | red | green | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Big | Small | Big | Small | green | red | green | red | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Small | Small | Big | Small | Small | red | green | red | red | green | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Small | Big | Small | Small | Small | green | red | red | green | red | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Big | Small | Small | Small | green | red | red | green | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Big | Small | Small | Small | Big | red | red | green | red | red | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Small | Small | Big | Big | red | green | red | red | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Big | Big | Small | Small | green | red | red | green | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Small | Big | Big | Small | Big | green | green | red | green | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Big | Big | Small | Big | green | green | red | green | green | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Big | Big | Small | Big | Big | green | red | green | green | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Big | Big | Big | Big | Big | red | red | green | green | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Big | Big | Big | Big | red | red | green | red | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Big | Small | Big | Small | red | red | red | green | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Big | Small | Big | Small | red | red | red | green | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Small | Big | Small | Small | red | red | green | red | green | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Big | Small | Small | Small | Big | green | red | green | red | red | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Big | Small | Small | Small | Big | green | red | green | red | red | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Small | Small | Small | Big | Small | red | green | red | red | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Big | Small | Small | Small | Small | red | red | red | green | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Big | Small | Small | Small | red | red | red | red | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Small | Big | Small | Small | Small | red | red | red | red | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Big | Small | Big | Small | red | green | green | green | red | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Big | Big | Small | Small | red | red | green | green | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Small | Small | Big | Big | Big | green | red | green | red | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Big | Big | Big | Big | green | green | green | green | green | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Big | Big | Big | Big | Big | green | green | green | red | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Big | Big | Big | Big | Small | green | green | red | red | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Big | Big | Big | Big | Small | green | green | red | red | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Big | Big | Big | Small | Small | green | red | red | red | green | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Small | Small | Big | Small | red | green | red | red | red | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Big | Small | Small | Small | Small | green | green | red | red | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Big | Small | Small | Small | Small | green | green | red | red | green | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Small | Small | Small | Big | green | red | red | green | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Small | Big | Big | Big | red | green | red | green | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Big | Big | Big | Big | Big | red | green | red | green | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Big | Big | Small | Big | green | red | red | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Small | Big | Big | Small | green | green | green | red | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Small | Small | Small | Small | green | green | green | green | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Big | Big | Small | Big | red | green | red | green | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Big | Small | Small | Big | Big | green | green | green | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Big | Big | Big | Small | green | green | green | green | green | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Big | Big | Big | Small | green | green | green | green | green | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Small | Big | Big | Small | green | green | red | green | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Small | Big | Small | Big | Small | green | green | green | green | red | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Big | Small | Small | Small | Small | green | red | green | green | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Small | Big | Big | Small | Big | red | red | red | green | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Small | Big | Big | Big | Small | red | red | red | green | green | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Big | Big | Big | Small | red | red | red | green | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Big | Big | Small | Small | red | red | green | green | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Big | Big | Small | Small | red | red | green | green | green | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Small | Big | Small | Small | Small | green | green | red | green | red | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Small | Big | Small | Small | Small | green | green | red | green | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Big | Small | Small | Small | Big | green | red | green | red | red | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Small | Small | Small | Big | green | red | green | red | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Small | Small | Big | Big | Small | green | red | red | red | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Small | Big | Big | Small | Small | red | red | red | red | green | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Big | Big | Small | Small | Big | red | red | red | green | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Big | Big | Small | Small | Big | red | red | red | green | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Big | Small | Small | Big | Small | red | red | green | red | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Big | Small | Small | Big | Small | red | red | green | red | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Small | Big | Small | Small | red | green | red | red | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Big | Small | Small | Big | green | red | red | green | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Small | Big | Small | Small | Big | green | red | red | green | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Big | Small | Small | Big | Small | green | green | green | red | red | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Small | Small | Small | Small | Small | Small | green | red | green | red | green | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Big | Big | Small | Big | Big | red | green | red | green | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Big | Big | Small | Big | Big | red | green | red | green | green | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Big | Big | Small | Big | Big | Big | green | red | green | green | green | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Big | Big | Big | Small | Big | red | red | red | red | red | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Big | Big | Big | Small | Big | red | red | red | red | red | green | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Small | Big | Small | Big | Small | green | green | green | red | green | green | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Small | Big | Small | Big | Small | green | green | green | red | green | green | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Big | Small | Big | Small | Big | green | green | red | green | green | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Big | Small | Small | Big | Small | green | green | green | green | red | green | green | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Big | Small | Small | Small | Small | Big | green | green | green | red | red | red | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Big | Small | Small | Small | Small | Big | green | green | green | red | red | red | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Small | Small | Small | Small | Big | Big | green | green | red | red | red | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Big | Big | Big | Big | Big | Big | red | green | green | green | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Big | Big | Big | Big | Big | Big | red | green | green | green | green | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Big | Big | Big | Big | Small | red | green | green | green | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Small | Big | Big | Big | Big | Small | red | green | green | green | green | green | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Big | Big | Big | Small | Small | green | green | green | green | green | green | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Small | Small | Small | Big | Small | Small | red | red | green | green | red | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Big | Big | Small | Big | Big | Small | green | red | red | red | red | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Small | Small | Small | Big | Small | Big | green | green | red | red | red | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Big | Big | Big | Big | Big | green | green | red | red | green | green | green | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Big | Big | Small | Big | Big | Big | green | green | green | green | red | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Small | Big | Big | Big | Big | green | green | green | red | green | green | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Big | Small | Big | Big | Big | Big | green | green | green | red | green | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Big | Big | Small | Big | Big | green | green | green | green | green | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Big | Big | Small | Big | Big | green | green | green | green | green | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Big | Big | Small | Big | Big | Small | green | green | green | green | red | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Small | Big | Big | Small | Big | Big | red | green | red | green | red | red | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Small | Small | Big | Small | Small | green | green | red | green | red | green | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Small | Small | Small | Big | Small | Small | green | green | red | green | red | green | red | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Small | Small | Big | Small | Small | Small | green | red | green | red | green | red | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Small | Big | Big | Big | Big | red | green | red | red | red | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Big | Small | Big | Big | Big | Big | red | green | red | red | red | green | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Big | Big | Big | Big | Big | green | red | red | red | green | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Big | Small | Big | Big | Big | green | red | red | green | red | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Big | Big | Big | Small | Small | Big | red | green | green | green | red | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Small | Small | Small | Big | Small | Big | red | red | red | red | red | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Small | Small | Big | Small | Big | red | red | red | red | red | green | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Big | Small | Small | Big | Big | Small | red | red | red | red | red | green | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Small | Small | Big | Big | Small | red | red | red | red | red | green | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Small | Big | Big | Big | Small | red | green | red | green | green | green | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Small | Small | Big | Big | Big | Small | red | green | red | green | green | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Small | Small | Big | Big | Big | Small | Small | green | red | green | green | green | green | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Small | Small | Big | Small | Big | green | green | green | red | red | green | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Big | Big | Big | Big | Big | Small | red | green | green | green | red | green | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Small | Big | Big | Big | Big | red | green | red | red | red | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Big | Small | Big | Big | Big | green | green | red | green | red | red | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Big | Small | Big | Small | Small | Small | red | green | green | red | red | red | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Big | Small | Big | Small | Small | Small | red | green | green | red | red | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Big | Small | Small | Small | Small | green | green | red | red | red | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Big | Big | Small | Small | Small | Small | green | green | green | green | green | green | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Big | Big | Small | Small | Small | Small | green | green | green | green | green | green | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Big | Small | Small | Small | Small | Small | green | green | green | green | green | green | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Small | Small | Big | Big | Big | Small | green | red | red | red | green | green | green | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Big | Big | Small | Big | Small | green | green | red | green | red | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Small | Big | Small | Small | Small | Big | green | red | red | green | red | red | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Small | Small | Big | Big | Big | red | green | red | red | red | green | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Small | Big | Big | Small | Big | Big | green | green | red | green | green | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Small | Big | Big | Big | Big | Big | green | red | red | green | green | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Big | Small | Big | Small | Small | red | red | red | green | red | green | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Small | Big | Small | Small | Small | Big | Small | green | red | green | red | red | red | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Big | Small | Small | Small | Big | Small | green | red | green | red | red | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Big | Big | Big | Small | Small | green | green | red | red | red | green | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Big | Small | Small | Small | Small | green | green | green | red | red | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Big | Small | Small | Small | Small | green | green | green | red | red | green | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Big | Small | Small | Small | Small | Big | green | green | red | red | green | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Big | Big | Big | Small | Small | red | red | red | green | green | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Big | Big | Big | Small | Small | red | red | red | green | green | green | red | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Small | Big | Small | Small | Small | red | green | green | red | green | red | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Small | Small | Big | Small | Small | Small | red | green | green | red | green | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Small | Big | Small | Small | Small | Big | green | green | red | green | red | red | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Small | Small | Big | Small | Small | Small | Big | green | green | red | green | red | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Small | Small | Big | Big | Small | red | green | red | red | red | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Big | Big | Small | Small | Big | Small | red | red | red | green | red | red | green | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Small | Big | Big | Small | Small | Big | Small | red | red | red | green | red | red | green | red
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Big | Big | Small | Small | Big | Small | Small | red | red | green | red | red | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Small | Small | Big | Small | Small | Big | red | green | red | red | green | red | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Small | Big | Small | Small | Big | red | green | red | red | green | red | red | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Big | Big | Small | Big | Big | Small | Big | Big | Big | red | green | red | green | green | green | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Small | Big | Small | Big | Small | Big | Small | Big | green | green | green | red | green | green | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Big | Small | Small | Small | Small | Big | Big | green | green | green | red | red | red | red | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Big | Big | Big | Big | Big | Big | Big | red | green | green | green | green | green | green | green | green
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Small | Big | Big | Big | Big | Small | Small | red | green | green | green | green | green | green | green | green
+🎯 Every time next: Small (Size)
+✅ Real 100% Trend → Predict: Small
+
+📌 Pattern: Small | Small | Big | Big | Big | Small | Big | Big | Small | green | green | green | green | green | red | green | red | green
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Small | Big | Small | Small | Small | Big | Small | Small | Small | green | green | red | green | red | green | red | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Small | Big | Small | Big | Big | Big | Big | Big | red | green | red | red | red | green | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Small | Big | Big | Big | Small | Small | red | green | red | green | green | green | green | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Big | Big | Big | Small | Big | Small | Small | Small | Small | red | green | green | red | red | red | green | red | green
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Big | Big | Big | Big | Small | Small | Small | Small | Small | green | green | green | green | green | green | green | red | red
+🎯 Every time next: red (Color)
+✅ Real 100% Trend → Predict: red
+
+📌 Pattern: Big | Big | Small | Big | Small | Small | Small | Small | Big | green | green | green | red | red | green | red | green | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Big | Small | Small | Big | Small | Small | Small | Big | red | green | green | red | green | red | red | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
+📌 Pattern: Small | Big | Small | Small | Big | Small | Small | Small | Big | red | green | green | red | green | red | red | red | red
+🎯 Every time next: Big (Size)
+✅ Real 100% Trend → Predict: Big
+
+📌 Pattern: Small | Small | Big | Big | Small | Small | Big | Small | Small | red | red | red | green | red | red | green | red | red
+🎯 Every time next: green (Color)
+✅ Real 100% Trend → Predict: green
+
